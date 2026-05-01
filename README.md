@@ -77,7 +77,13 @@ http://192.168.56.11:9002
 
 ---
 
-## 6. Troubleshooting
+## 6. Project Workflow Diagram 
+
+![Project Workflow Diagram] (imagaes/Workflow.png)
+
+---
+
+## 7. Troubleshooting
 
 **`203/EXEC` error on service start**
 - Make sure binaries are Linux ARM64, not Darwin. Recompile with `GOOS=linux GOARCH=arm64` if needed.
@@ -86,7 +92,7 @@ http://192.168.56.11:9002
 
 ---
 
-## 7. Useful Commands
+## 8. Useful Commands
 
 - 'vagrant up' - Start and provision all VMs
 - 'vagrant status' - Check curent VM state
