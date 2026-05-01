@@ -79,7 +79,7 @@ http://192.168.56.11:9002
 
 ## 6. Project Workflow Diagram 
 
-![Project Workflow Diagram] (imagaes/Workflow.png)
+![Project Workflow Diagram] (images/Workflow.png)
 
 ---
 
